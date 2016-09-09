@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" id="svg2" x="0px" width="0.444444in" y="0px" xml:space="preserve" gorn="0" viewBox="0 0 32 32"  xmlns:xml="http://www.w3.org/XML/1998/namespace" height="0.444444in">
+    <desc >
+        <referenceFile >LM2575_icon.svg</referenceFile>
+    </desc>
+    <metadata id="metadata37" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs35" />
+    <g id="icon" gorn="0.3" >
+        <path fill="#BFBCBC" d="M28.146,1.298H15.999v2.026c3.526,0,6.379,2.002,6.379,4.469c-0.002,2.465-2.854,4.465-6.379,4.465v6.551   h12.147V1.298z" id="path4" gorn="0.3.0" />
+        <path fill="#808080" d="M9.622,7.789c0-2.469,2.854-4.467,6.377-4.467V1.296H3.851v17.505h12.148v-6.549   C12.476,12.254,9.622,10.256,9.622,7.789z" id="path6" gorn="0.3.1" />
+        <rect fill="#8C8C8C" id="rect4" x="6.686" width="2.431" y="38.583" gorn="0.3.2"  height="24.938"/>
+        <rect fill="#8C8C8C" id="rect6" x="14.784" width="2.43" y="38.583" gorn="0.3.3"  height="24.938"/>
+        <rect fill="#8C8C8C" id="rect8" x="22.883" width="2.43" y="38.583" gorn="0.3.4"  height="24.938"/>
+        <polygon fill="#CCCCCC" id="polygon10" points="1.016,4.559 1.016,15.364 3.851,15.364 3.851,1.298  " gorn="0.3.5" />
+        <polygon fill="#999999" id="polygon12" points="30.982,4.559 28.146,1.298 28.146,15.364 30.982,15.364  " gorn="0.3.6" />
+        <polygon fill="#8C8C8C" id="polygon21" points="10.735,46.8 8.922,47.607 6.88,47.607 5.064,46.8 5.064,36.934 10.735,36.934  " gorn="0.3.7" />
+        <polygon fill="#8C8C8C" id="polygon23" points="18.835,46.8 17.02,47.607 14.979,47.607 13.164,46.8 13.164,36.934 18.835,36.934     " gorn="0.3.8" />
+        <polygon fill="#8C8C8C" id="polygon25" points="26.934,46.8 25.118,47.607 23.079,47.607 21.264,46.8 21.264,36.934 26.934,36.934     " gorn="0.3.9" />
+        <rect fill="#141414" x="21.264" width="9.721" id="rect16" y="26.427" gorn="0.3.10"  height="17.999"/>
+        <rect fill="#333333" x="1.016" width="9.72" id="rect18" y="26.427" gorn="0.3.11"  height="17.999"/>
+        <path fill="#262626" d="M1.016,33.016v5.812c2.292,0,4.151-1.299,4.151-2.906   C5.167,34.318,3.308,33.016,1.016,33.016z" id="path40_1_" gorn="0.3.12" />
+        <path d="M30.982,33.016c-2.293,0-4.151,1.301-4.151,2.906c0,1.604,1.858,2.906,4.151,2.906V33.016z" id="path47" gorn="0.3.13" />
+        <path fill="#1A1A1A" d="M1.016,26.427v8.009c2.292,0,4.151,1.303,4.151,2.906s-1.859,2.905-4.151,2.905v4.179h29.969V26.427H1.016z    M30.982,40.247c-2.293,0-4.151-1.299-4.151-2.907c0-1.604,1.858-2.904,4.151-2.904V40.247z" id="path22" gorn="0.3.14" />
+        <rect id="rect49" x="1.016" width="29.969" y="22.659" gorn="0.3.15"  height="3.766"/>
+        <rect fill="#333333" id="rect51" x="1.016" width="29.969" y="18.003" gorn="0.3.16"  height="4.656"/>
+        <rect fill="#B2B2B2" id="rect53" x="3.851" width="24.3" y="1.298" gorn="0.3.17"  height="3.442"/>
+        <path fill="#8C8C8C" d="M28.146,3.938H3.851l-2.835,3.26v10.806h29.967V7.197L28.146,3.938z M15.999,14.895   c-3.523,0-6.377-2-6.377-4.465c0-2.466,2.854-4.465,6.377-4.465c3.526,0,6.379,2,6.379,4.465   C22.376,12.895,19.523,14.895,15.999,14.895z" id="path55" gorn="0.3.18" />
+        <g fill="#663300" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" font-size="32" id="text3376" stroke-opacity="1" xml:space="preserve" stroke-width="0.8" stroke="none" gorn="0.3.19"  xmlns:xml="http://www.w3.org/XML/1998/namespace" fill-opacity="1">
+            <text style="font-size:7.5px;fill:#663300;fill-opacity:1" x="0.98305136" id="tspan3378" y="31.322035" gorn="0.3.19.0" >LM2575</text>
+        </g>
+    </g>
+</svg>
