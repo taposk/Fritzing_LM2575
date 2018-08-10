@@ -4,7 +4,7 @@
  <author>Taposk_EloiG</author>
  <title>Buck regulator LM7525</title>
  <label>U</label>
- <date>mar. sept. 6 2016</date>
+ <date>Sat Aug 11 2018</date>
  <tags>
   <tag>TO263</tag>
   <tag>LM2575</tag>
@@ -25,6 +25,7 @@
   <property name="variant">variant 3</property>
   <property name="family">voltage regulator step down</property>
   <property name="voltage">5V</property>
+  <property name="current">3A</property>
  </properties>
  <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 &lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
@@ -69,8 +70,8 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="pad" id="connector1" name="GND">
-   <description>ground</description>
+  <connector type="pad" id="connector1" name="OUT">
+   <description>output voltage</description>
    <views>
     <breadboardView>
      <p layer="breadboard" legId="connector1leg" svgId="connector1pin"/>
@@ -83,8 +84,8 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="pad" id="connector2" name="OUTPUT">
-   <description>output voltage</description>
+  <connector type="pad" id="connector2" name="GND">
+   <description>ground</description>
    <views>
     <breadboardView>
      <p layer="breadboard" legId="connector2leg" svgId="connector2pin"/>
@@ -93,7 +94,7 @@ p, li { white-space: pre-wrap; }
      <p layer="schematic" terminalId="connector2terminal" svgId="connector2pin"/>
     </schematicView>
     <pcbView>
-     <p layer="copper1" terminalId="connector2terminal" svgId="connector2pad"/>
+     <p layer="copper1" svgId="connector2pad"/>
     </pcbView>
    </views>
   </connector>
@@ -104,24 +105,24 @@ p, li { white-space: pre-wrap; }
      <p layer="breadboard" svgId="connector3pin"/>
     </breadboardView>
     <schematicView>
-     <p layer="schematic" svgId="connector3pin"/>
+     <p layer="schematic" terminalId="connector3terminal" svgId="connector3pin"/>
     </schematicView>
     <pcbView>
-     <p layer="copper1" svgId="connector3pin"/>
+     <p layer="copper1" svgId="connector3pad"/>
     </pcbView>
    </views>
   </connector>
   <connector type="pad" id="connector4" name="/ON/OFF">
-   <description>ONOFF</description>
+   <description>ON (low)/OFF</description>
    <views>
     <breadboardView>
      <p layer="breadboard" svgId="connector4pin"/>
     </breadboardView>
     <schematicView>
-     <p layer="schematic" svgId="connector4pin"/>
+     <p layer="schematic" terminalId="connector4terminal" svgId="connector4pin"/>
     </schematicView>
     <pcbView>
-     <p layer="copper1" svgId="connector4pin"/>
+     <p layer="copper1" svgId="connector4pad"/>
     </pcbView>
    </views>
   </connector>
